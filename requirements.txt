@@ -4,3 +4,10 @@ scikit-learn
 matplotlib
 seaborn
 joblib
+Models:-
+Gradient Boosting	
+Random Forest
+Decision Tree
+Linear Regression
+Ridge Regression
+Dummy Regressor
